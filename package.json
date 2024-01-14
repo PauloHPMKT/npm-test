@@ -1,0 +1,20 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "project to test library deploy to npm",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PauloHPMKT/npm-test.git"
+  },
+  "author": "paulotechdevmais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PauloHPMKT/npm-test/issues"
+  },
+  "homepage": "https://github.com/PauloHPMKT/npm-test#readme"
+}
