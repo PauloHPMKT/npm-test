@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+ssh://git@github.com/PauloHPMKT/npm-test.git"
   },
-  "author": "paulotechdevmais",
+  "author": {
+    "name": "paulotechdevmais",
+    "email": "pauloserg861@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/PauloHPMKT/npm-test/issues"
