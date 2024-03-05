@@ -1,5 +1,5 @@
 {
-  "name": "npm-test",
+  "name": "npm-test-json",
   "version": "1.0.1",
   "description": "project to test library deploy to npm",
   "main": "src/index.js",
