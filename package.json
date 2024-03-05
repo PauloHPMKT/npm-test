@@ -1,5 +1,5 @@
 {
-  "name": "npm-test-json",
+  "name": "temp-npm-test",
   "version": "1.0.1",
   "description": "project to test library deploy to npm",
   "main": "src/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/PauloHPMKT/npm-test.git"
+    "url": "git+ssh://git@github.com/PauloHPMKT/temp-npm-test.git"
   },
   "author": {
     "name": "paulotech_devmais",
@@ -17,7 +17,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PauloHPMKT/npm-test/issues"
+    "url": "https://github.com/PauloHPMKT/temp-npm-test/issues"
   },
-  "homepage": "https://github.com/PauloHPMKT/npm-test#readme"
+  "homepage": "https://github.com/PauloHPMKT/temp-npm-test#readme"
 }
